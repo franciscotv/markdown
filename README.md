@@ -38,11 +38,10 @@ E.g.:
         Markdown can be configured to produce HTML-style tags; e.g.:
     <br>
 
-### Command-Line ###
-
-Use the `--html4tags` command-line switch to produce HTML output from a
-Unix-style command line. E.g.:
-    % perl Markdown.pl --html4tags foo.text
+Insert hyper-links
+------------------
+[Please do visit my active site](https://nohaciaelsur.wordpress.com/)
+[Or my archive](https://sites.google.com/site/zerofrancisco)
 
 
 Bugs

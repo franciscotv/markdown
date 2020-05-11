@@ -1,14 +1,11 @@
 Intro to Markdown
 =================
-
 Version 0.2 - Dom 10 May 2020
-
 by Francisco Treviño
 <https://sites.google.com/site/zerofrancisco/>
 
 Introduction
 ------------
-
 Markdown is a text-to-HTML conversion tool for web writers. Markdown
 allows you to write using an easy-to-read, easy-to-write plain text
 format, then convert it to structurally valid XHTML (or HTML).
@@ -26,26 +23,23 @@ Thus, "Markdown" is two things: a plain text markup syntax, and a
 software tool, written in Perl, that converts the plain text markup 
 to HTML.
 
+Configuration
+-------------
+By default, Markdown produces XHTML output for tags with empty elements.
+E.g.:
+    <br>
+        Markdown can be configured to produce HTML-style tags; e.g.:
+    <br>
 By default, Markdown produces XHTML output. To configure
 Markdown to produce HTML 4 output, see "Configuration", below.
 
-Configuration
--------------
-
-By default, Markdown produces XHTML output for tags with empty elements.
-E.g.:
-    <br />
-        Markdown can be configured to produce HTML-style tags; e.g.:
-    <br>
 
 Insert hyper-links
 ------------------
 [Please do visit my active site](https://nohaciaelsur.wordpress.com/)
 [Or my archive](https://sites.google.com/site/zerofrancisco)
 
-
 Bugs
 ----
-
 To file bug reports or feature requests please send email to:
 <zerofrancisco@gmail.com>.

@@ -60,7 +60,7 @@ Markdown Cheat Sheet
 7. that is a horizontal line "---"
 8. Link [title](https://www.example.com)
 ---
-9. Image ![alt text](imgs/ricardo-mtz-man-black-red.jpg)
+9. Image ![alt text](imgs/ricardo-mtz-man-black-red.JPG)
 
 
 Bugs
